@@ -1,0 +1,16 @@
+{
+  "name": "issue-triage",
+  "version": "0.1.0",
+  "description": "Assigns each item one of five states and writes self-contained briefs for agent-ready work.",
+  "author": {
+    "name": "nvvdev",
+    "url": "https://github.com/nvv-dev"
+  },
+  "homepage": "https://github.com/nvv-dev/issue-triage",
+  "repository": "https://github.com/nvv-dev/issue-triage",
+  "license": "MIT",
+  "keywords": [
+    "skill",
+    "dev-workflow"
+  ]
+}
